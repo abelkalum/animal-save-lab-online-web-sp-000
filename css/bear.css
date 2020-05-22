@@ -9,11 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 600px) {
-    .wrapper { width: 600px; }
+@media only screen and (max-width: 1196px) {
+    .wrapper { width: 800px; }
     .column {
-        width: 32%;
         float: left;
-        margin-left: 2%;
-        margin-bottom: 0;
     }
